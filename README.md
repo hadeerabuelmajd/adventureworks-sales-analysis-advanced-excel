@@ -18,10 +18,10 @@ This project is an interactive Excel Dashboard built to analyze sales performanc
 ## Dashboard Preview
 
 ### 1. Time Analysis View
-![Time Analysis](Dashboard1.png)
+<img src="Dashboard%201.png" alt="Time Analysis Dashboard" width="100%">
 
 ### 2. Detail Analysis View
-![Detail Dashboard](Dashboard2.png)
+<img src="Dashboard%202.png" alt="Detail Dashboard" width="100%">
 
 ---
 
