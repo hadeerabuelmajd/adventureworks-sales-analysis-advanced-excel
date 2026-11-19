@@ -17,12 +17,18 @@ AdventureWorks is a bicycle and accessories company selling internationally. Man
 
 ## 2. Dataset & Data Model
 
-- **Source:** AdventureWorks sample dataset (`AdventureWorks--.xlsx`)
+- **Source:** AdventureWorks sample dataset (`AdventureWorks (Dataset).xlsx`)
 - **Structure:** Sales data linked to Product, Customer, Territory, and Date tables
 <!-- TODO: describe how you prepared it: Excel Tables / Power Query / Data Model (Power Pivot) / lookup formulas -->
 
 <!-- TODO: add a screenshot of the model view -->
 <!-- ![Data Model](images/data_model.png) -->
+
+<p align="center">
+  <a href="data_model.png">
+    <img src="data_model.png" alt="Data Model" width="60%" />
+  </a>
+</p>
 
 ## 3. Tools & Skills
 
@@ -39,19 +45,13 @@ Top-5 products and customers, product colors, pricing types, catalog coverage, c
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="data_model.png">
-        <img src="data_model.png" alt="Data Model" width="100%" />
-      </a>
-      <sub>Data Model</sub>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="time_analysis.png">
         <img src="time_analysis.png" alt="Time Analysis" width="100%" />
       </a>
       <sub>Time Analysis</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="detail_dashboard.png">
         <img src="detail_dashboard.png" alt="Detail Dashboard" width="100%" />
       </a>
@@ -69,7 +69,7 @@ Profit Margin = Profit / Revenue
 ```
 <!-- TODO: replace with your real formulas / calculated fields (e.g. SUMIFS, calculated fields in PivotTables, Top-5 share, unsold products count) -->
 
-## 6. What I Found
+## 6. What I Found (Insights)
 
 ### Profit is very seasonal
 Most of the profit comes at the end of the year. Q4 brought in $17.63M (41% of the profit) while Q1 only made $6.10M, so Q4 is about three times bigger. October, November and December alone make up 41.4% of the year's profit.
