@@ -102,5 +102,5 @@ Weekdays make up 72.3% of the profit, but that is about what you would expect fr
 
 - Findings reflect the selected period/filters shown in the screenshots. <!-- TODO: specify the year -->
 - The "50+" age group is open-ended, so it is not directly comparable to the 5-year bands.
-- <!-- TODO: note whether 2008 data is complete or partial, since 2008 ($42M) is slightly below 2007 ($43M) -->
+ <!-- TODO: note whether 2008 data is complete or partial, since 2008 ($42M) is slightly below 2007 ($43M) -->
 - This is a practice/portfolio project using a public sample dataset, so recommendations are illustrative.
