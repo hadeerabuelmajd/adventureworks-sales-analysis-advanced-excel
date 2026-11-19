@@ -32,14 +32,14 @@ Microsoft Excel · PivotTables ·  Data Modeling . Dax . Power Query ( Transfoma
 ## 4. Dashboard
 
 ### Page 1: Time Analysis
-KPIs (Qty, COGS, Revenue, Profit, Margin, Transactions), profit by year, month, weekday, quarter, and country filters.
+KPIs (Qty, COGS, Revenue, Profit, Margin, Transactions), profit by year, month, weekday, quarter, and country filters[cite: 2].
 
-<!-- ![Time Analysis](images/time_analysis.png) -->
+<img src="images/time_analysis.png" alt="Time Analysis" width="45%" />
 
 ### Page 2: Detail Dashboard
-Top-5 products and customers, product colors, pricing types, catalog coverage, customer age groups, gender split, and geography.
+Top-5 products and customers, product colors, pricing types, catalog coverage, customer age groups, gender split, and geography[cite: 3].
 
-<!-- ![Detail Dashboard](images/detail_dashboard.png) -->
+<img src="images/detail_dashboard.png" alt="Detail Dashboard" width="45%" />
 
 ## 5. Key Calculations
 
