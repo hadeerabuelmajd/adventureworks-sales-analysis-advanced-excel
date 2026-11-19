@@ -40,20 +40,20 @@ Top-5 products and customers, product colors, pricing types, catalog coverage, c
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="images/data_model.png">
-        <img src="images/data_model.png" alt="Data Model" width="100%" />
+      <a href="data_model.png">
+        <img src="data_model.png" alt="Data Model" width="100%" />
       </a>
       <sub>Data Model</sub>
     </td>
     <td align="center" width="33%">
-      <a href="images/time_analysis.png">
-        <img src="images/time_analysis.png" alt="Time Analysis" width="100%" />
+      <a href="time_analysis.png">
+        <img src="time_analysis.png" alt="Time Analysis" width="100%" />
       </a>
       <sub>Time Analysis</sub>
     </td>
     <td align="center" width="33%">
-      <a href="images/detail_dashboard.png">
-        <img src="images/detail_dashboard.png" alt="Detail Dashboard" width="100%" />
+      <a href="detail_dashboard.png">
+        <img src="detail_dashboard.png" alt="Detail Dashboard" width="100%" />
       </a>
       <sub>Detail Dashboard</sub>
     </td>
