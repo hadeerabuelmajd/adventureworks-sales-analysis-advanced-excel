@@ -26,7 +26,7 @@ AdventureWorks is a bicycle and accessories company selling internationally. Man
 
 ## 3. Tools & Skills
 
-Microsoft Excel · PivotTables · Slicers · Interactive Charts · Dashboard Design · Business Storytelling
+Microsoft Excel · PivotTables ·  Data Modeling . Dax . Powe Query ( Transfomations , Data cleaning ) Slicers · Interactive Charts · Dashboard Design · Business Storytelling
 <!-- TODO: add only what you really used: Power Query, Power Pivot/Data Model, XLOOKUP/INDEX-MATCH, SUMIFS, etc. -->
 
 ## 4. Dashboard
